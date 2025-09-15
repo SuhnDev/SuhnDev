@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm SuDev 👋  
 
-<!--
-**SuhnDev/SuhnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer-in-training, exploring algorithms and practical coding  
+⚡ Interested in performance, systems, and creative problem solving  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Java Programming ☕
+- Algorithms 📊
+- Computer Networks 🌐
+- Operating Systems (Linux) 🐧  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- Cost-Aware Maximum Finding — experimenting with threshold-based prefilters  
+- More coming soon... 🚀  
+
+## 🛠️ Tech Stack
+`Java` `Python` `C/C++` `Linux` `Git/GitHub`
+
+## 📫 Connect
+Check out my repos or leave an issue ✨
