@@ -1,5 +1,4 @@
 # Hi, I'm SuDev 👋  
-
 💻 Developer-in-training, exploring algorithms and practical coding  
 ⚡ Interested in performance, systems, and creative problem solving  
 
@@ -18,3 +17,5 @@
 
 ## 📫 Connect
 Check out my repos or leave an issue ✨
+
+![](./SuDev_waiting_latest.gif)
