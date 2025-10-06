@@ -10,7 +10,7 @@
 
 ## 🔭 Projects
 - Cost-Aware Maximum Finding — experimenting with threshold-based prefilters
-- Project MC - Mobile Android Puzzle Game
+- Project MC - Android puzzle stage game
 - More coming soon... 🚀  
 
 ## 🛠️ Tech Stack
