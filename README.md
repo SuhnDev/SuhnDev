@@ -9,7 +9,8 @@
 - Operating Systems (Linux) 🐧  
 
 ## 🔭 Projects
-- Cost-Aware Maximum Finding — experimenting with threshold-based prefilters  
+- Cost-Aware Maximum Finding — experimenting with threshold-based prefilters
+- Project MC - Mobile Android Puzzle Game
 - More coming soon... 🚀  
 
 ## 🛠️ Tech Stack
